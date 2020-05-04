@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Tekstowe RPG:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Tekstowe_RPG_jar</output-path>
+    <root id="archive" name="Tekstowe RPG.jar">
+      <element id="module-output" name="Tekstowe RPG" />
+    </root>
+  </artifact>
+</component>

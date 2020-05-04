@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Tekstowe RPG">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Tekstowe RPG.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
